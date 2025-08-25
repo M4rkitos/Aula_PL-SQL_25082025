@@ -1,0 +1,11 @@
+SET SERVEROUTPUT ON;
+DECLARE
+    
+BEGIN
+LOOP 
+   
+    EXIT WHEN ;
+    END LOOP;
+
+END;
+
